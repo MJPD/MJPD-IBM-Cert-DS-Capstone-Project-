@@ -1,6 +1,6 @@
 # Import required libraries
 import pandas as pd
-import dash # Ver 2.5.1 which reuires the following imports.
+import dash # Ver 2.5.1 which requires the following imports.
 from dash import html
 # import dash_html_components as html
 from dash import dcc
